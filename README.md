@@ -1,5 +1,5 @@
 # Colour Detection
-
+```
 import numpy as np 
 import cv2  
 while(1):  
@@ -54,4 +54,4 @@ while(1):
         cap.release() 
         cv2.destroyAllWindows() 
         break
- 
+ ```
